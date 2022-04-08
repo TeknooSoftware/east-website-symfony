@@ -20,6 +20,7 @@ This library requires :
     * Teknoo/States.
     * Teknoo/Recipe.
     * Teknoo/East-Foundation.
+    * Teknoo/East-Common.
     * Optional: Symfony 6.0+ 
 
 Support this project
