@@ -30,8 +30,9 @@
         "ext-simplexml" : "*",
         "ext-mongodb" : "*",
         "doctrine/common": "^3.3",
+        "doctrine/persistence": "^3.0.2",
         "doctrine/mongodb-odm": "^2.4.2",
-        "doctrine/mongodb-odm-bundle": "^4.4",
+        "doctrine/mongodb-odm-bundle": "^4.5",
         "laminas/laminas-diactoros": "^2.11",
         "psr/http-message":"^1.0.1",
         "psr/http-factory":"^1.0.1",
@@ -48,7 +49,7 @@
         "teknoo/recipe": "^4.1.4",
         "teknoo/east-foundation-symfony": "^6.0.5",
         "teknoo/east-common-symfony": "^1.2.4",
-        "teknoo/east-website": "^8.0.7",
+        "teknoo/east-website": "^8.1.0",
         "twig/twig": "^3.4"
     },
     "require-dev": {
