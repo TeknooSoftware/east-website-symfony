@@ -24,7 +24,7 @@ sharing knowledge and skills.
 
 License
 -------
-Space is licensed under the MIT License - see the licenses folder for details.
+East Website is licensed under the MIT License - see the licenses folder for details.
 
 Installation & Requirements
 ---------------------------
@@ -33,7 +33,13 @@ To install this library with composer, run these commands :
 * Add in your composer.json the entry `https://api.github.com/repos/TeknooSoftware/symfony-recipes/contents/index.json`
   to the list `extra.symfony.endpoint` and set to `true` the entry `extra.symfony.allow-contrib`.
 * If the `extra.symfony.endpoint` is not already defined, you must also add `flex://defaults` to avoid errors.
-* Run this command `composer require teknoo/east-foundation-symfony`
+* Run this command `composer require teknoo/east-website-symfony`
+
+To start a project with Symfony :
+
+    symfony new your_project_name new
+    composer require teknoo/composer-install
+    composer require teknoo/east-website-symfony    
 
 This library requires :
 
@@ -43,5 +49,4 @@ This library requires :
     * Teknoo/States.
     * Teknoo/Recipe.
     * Teknoo/East-Foundation.
-    * Teknoo/East-Common.
-    * Optional: Symfony 6.0+ 
+    * Optional: Symfony 6.2+ (for administration)
