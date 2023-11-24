@@ -30,7 +30,7 @@
         "ext-simplexml" : "*",
         "ext-mongodb" : "*",
         "doctrine/common": "^3.4.3",
-        "doctrine/mongodb-odm": "^2.5.4",
+        "doctrine/mongodb-odm": "^2.6.1",
         "doctrine/mongodb-odm-bundle": "^4.6.2",
         "doctrine/persistence": "^3.2",
         "laminas/laminas-diactoros": "^3.3",
@@ -40,7 +40,7 @@
         "symfony/form": "^6.3",
         "symfony/html-sanitizer": "^6.3",
         "symfony/http-kernel": "^6.3",
-        "symfony/psr-http-message-bridge": "^2.2",
+        "symfony/psr-http-message-bridge": "^2.3.1",
         "symfony/security-core": "^6.3",
         "symfony/security-bundle": "^6.3",
         "symfony/templating": "^6.3",
@@ -50,9 +50,9 @@
         "teknoo/east-foundation-symfony": "^7.3.3",
         "teknoo/immutable": "^3.0.16",
         "teknoo/recipe": "^4.5.1",
-        "teknoo/states": "^6.1.2",
+        "teknoo/states": "^6.1.4",
         "teknoo/east-website": "^9.1",
-        "twig/twig": "^3.7.1"
+        "twig/twig": "^3.8"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest"
