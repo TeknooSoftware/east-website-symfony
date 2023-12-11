@@ -51,7 +51,7 @@
         "teknoo/immutable": "^3.0.17",
         "teknoo/recipe": "^4.5.2",
         "teknoo/states": "^6.1.5",
-        "teknoo/east-website": "^9.1.6",
+        "teknoo/east-website": "^9.1.7",
         "twig/twig": "^3.8"
     },
     "require-dev": {
