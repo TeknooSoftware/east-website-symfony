@@ -50,7 +50,7 @@
         "teknoo/immutable": "^3.0.18",
         "teknoo/recipe": "^6",
         "teknoo/states": "^6.4.1",
-        "teknoo/east-website": "^10",
+        "teknoo/east-website": "^10.0.1",
         "twig/twig": "^3.8"
     },
     "require-dev": {
