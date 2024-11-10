@@ -47,10 +47,11 @@
         "teknoo/bridge-phpdi-symfony": "^6.1",
         "teknoo/east-common-symfony": "^3",
         "teknoo/east-foundation-symfony": "^8",
+        "teknoo/east-translation-symfony": "^1",
         "teknoo/immutable": "^3.0.18",
         "teknoo/recipe": "^6",
         "teknoo/states": "^6.4.1",
-        "teknoo/east-website": "^10.0.1",
+        "teknoo/east-website": "^10.0.2",
         "twig/twig": "^3.8"
     },
     "require-dev": {
