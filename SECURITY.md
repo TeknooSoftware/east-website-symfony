@@ -5,10 +5,10 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 8.6.x   | :white_check_mark: |
-| < 8.6   | :x:                |
+| Version  | Supported          |
+|----------| ------------------ |
+| 11.0.x   | :white_check_mark: |
+| < 11.0.x | :x:                |
 
 ## Reporting a Vulnerability
 
