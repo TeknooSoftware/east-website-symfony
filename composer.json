@@ -49,9 +49,9 @@
         "teknoo/east-foundation-symfony": "^9",
         "teknoo/east-translation-symfony": "^2",
         "teknoo/immutable": "^3.0.21",
-        "teknoo/recipe": "^7",
-        "teknoo/states": "^7",
-        "teknoo/east-website": "^11.0.1",
+        "teknoo/recipe": "^7.2",
+        "teknoo/states": "^7.1",
+        "teknoo/east-website": "^11.1",
         "twig/twig": "^3.21.1"
     },
     "require-dev": {
