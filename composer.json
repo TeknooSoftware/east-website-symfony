@@ -45,13 +45,13 @@
         "symfony/security-bundle": "^6.4.24||^7.3||^8",
         "symfony/yaml": "^6.4.24||^7.3||^8",
         "teknoo/bridge-phpdi-symfony": "^7.1.2",
-        "teknoo/east-common-symfony": "^4.1.2",
+        "teknoo/east-common-symfony": "^4.5",
         "teknoo/east-foundation-symfony": "^9.0.4",
         "teknoo/east-translation-symfony": "^2.0.1",
         "teknoo/immutable": "^3.0.22",
         "teknoo/recipe": "^7.2.2",
         "teknoo/states": "^7.1.2",
-        "teknoo/east-website": "^11.1.2",
+        "teknoo/east-website": "^11.2",
         "twig/twig": "^3.22.2"
     },
     "require-dev": {
